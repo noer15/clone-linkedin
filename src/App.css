@@ -2,7 +2,10 @@
   background-color: #f3f2ef;
   display: flex;
   flex-direction: column;
+  margin: auto;
 }
 .app__body {
   display: flex;
+  justify-content: center;
+  margin: 30px 20px 0 20px;
 }
